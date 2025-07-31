@@ -42,4 +42,4 @@ Journey Fantasy is a responsive travel website built with HTML, CSS, and JavaScr
 
 👤 Dumeesha Tharukee
 📧 ng.dumeeshatharukee@gmail.com
-🔗 GitHub Profile
+🔗dumeeshatharukee
