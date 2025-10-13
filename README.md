@@ -3,7 +3,7 @@
 
 A dynamic travel website designed to explore stunning destinations with an immersive experience!
 
-🌟 About The Project
+## 🌟 About The Project
 
 Journey Fantasy is a responsive travel website built with HTML, CSS, and JavaScript, offering users a visually appealing way to discover travel destinations.
 
