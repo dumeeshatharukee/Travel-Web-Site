@@ -1,4 +1,4 @@
- 🏝️ **Journey Fantasy** – *Travel Website*
+# 🏝️ Journey Fantasy – Travel Website
 
 
 A dynamic travel website designed to explore stunning destinations with an immersive experience!
